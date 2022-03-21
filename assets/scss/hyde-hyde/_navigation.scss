@@ -26,11 +26,11 @@ ul.pagination {
     padding: 15px;
     color: $navigation-color;
     border: 2px solid $navigation-color;
+    border-radius: 10px;
     line-height: 1.25;
     text-transform: uppercase;
     &:hover {
       padding: 14px;
-      border-width: 3px;
     }
     &:nth-child(2) {
       margin-top: 10px;
